@@ -48,7 +48,7 @@ public class Osoba {
     }
 
     public String toString(){
-    	return imie + " " + nazwisko + " " + dataUrodzenia;
+    	return imie + " " + nazwisko + " " + getWiek() + " lat";
     }
 }
 
