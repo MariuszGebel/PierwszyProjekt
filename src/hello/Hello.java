@@ -15,7 +15,7 @@ public class Hello {
 		konto.wplata(500);
 		System.out.println(konto);
 		
-		System.out.println("Koniec");
+		System.out.println("A jednak nie koniec");
 		
 	}
 }
