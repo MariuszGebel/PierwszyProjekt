@@ -1,9 +1,11 @@
 package hello;
 
+//To jest klasa konto
 public class Konto {
     int numer;
     int saldo;
     Osoba wlasciciel;
+    
     
     public Konto(int numer, int saldo, Osoba wlasciciel) {
    	 this.numer = numer;
